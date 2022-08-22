@@ -26,7 +26,7 @@
                 print "<h3 class='h3'> Su edad es: $edad </h3>";
             }
             muestranombre("Marco Rodriguéz");
-            muestraedad("22");
+            muestraedad("23");
             ?>
         </div>
     </div>
